@@ -64,13 +64,15 @@ Some visualizations included in this project:
    ```bash
    git clone https://github.com/Mohammad-Arish-Khan/Netflix-Data-Analysis.git
 
-2. Navigate to the project bar
+2. Navigate to the project bar:
+   ```bash
    cd Netflix-Data-Analysis
 
-3. Install the Dependencies
+3. Install the Dependencies:
+   ```bash
    pip install -r requirements.txt
-
-4. Open the Jupyter Notebook
+4. Open the Jupyter Notebook:
+   ```bash
    jupyter notebook "Netflix Data Analysis.ipynb"
 
 
