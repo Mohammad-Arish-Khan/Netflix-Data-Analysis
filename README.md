@@ -75,8 +75,6 @@ Some visualizations included in this project:
    ```bash
    jupyter notebook "Netflix Data Analysis.ipynb"
 
-
-
  ## 🌟 Project Highlights 
  The questions we answered through our Analysis:
 
