@@ -95,5 +95,5 @@ Ans: Year 2020 has the highest filming rate in our dataset.
 📧 Email: [md.arishk10@gmail.com]  
 🌍 GitHub: [https://github.com/Mohammad-Arish-Khan]  
 
-Thank you for reading ⭐ .
+Thank you for reading ⭐ 
  
